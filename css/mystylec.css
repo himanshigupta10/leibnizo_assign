@@ -1,0 +1,35 @@
+body{
+	font-family: Arial;
+	background-color: black;
+}
+.wrap{
+	max-width: 320px;
+	border-radius: 20px;
+	margin:0 auto;
+	background: rgba(0,0,0,0.8);
+	box-sizing: border-box;
+	padding: 20px;
+	color:#fff;
+	height: 530px;
+	position: absolute;
+	right: 8%;
+	left: 8%;
+	border: 2px solid gray;
+}
+h2{
+	text-align: center;
+	color: red;
+}
+
+h3{
+	color: grey;
+}
+.boxa{
+	padding-bottom: 35px;
+}
+.boxb{
+	padding-bottom: 40px;
+}
+.boxc{
+	padding-bottom:20px;
+}
